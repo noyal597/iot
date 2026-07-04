@@ -1,0 +1,35 @@
+prac 1: 
+Design and implement basics embedded circuits 
+Automatic Alarm system- Alarm should get trigger by senor  Timer based buzzer  Sensor based Counting device 
+https://youtu.be/uPXRIh663jw?si=9QCvwPUsSlthA6hy
+
+prac 2: 
+Demonstrate communication between two embedded devices using UART port 
+https://youtu.be/fdXi1GVC07k?si=Y0gUa4D5Zl88iwI-
+
+prac 3 : 
+Built an IoT system to send ticket before entering the bus
+https://youtu.be/amrIB4RcLR0?si=DOyUgypkd6pN0lvo
+
+prac 4: 
+Develop a IoT application which will record the movement and orientation of 
+your phone and give the data back to the PC 
+https://youtu.be/kNiEIFJjudc?si=-dtNzTZsynHc9qQr
+
+prac 5:
+Develop an IoT application that will raise an alarm whenever with going to rain 
+outside based on the weather prediction data
+https://youtu.be/7L45ezJLfyg?si=kZeDFfzbk2mI1cVk
+
+prac 6 :
+Develop an IoT application for monitoring water levels in tanks and 
+automatically start the motor to fill the tank if the level goes below the critical 
+level. 
+https://youtu.be/-l5Q22ZKOx8?si=PHOlw1yfZZCpm1Br
+
+prac 7 : 
+Develop an IoT module to which measure the intensity of light and send the 
+same to your PC/ Phone
+https://youtu.be/4ibf6wHOIok?si=XpeHqYT0kAqu-KZN
+
+prac 8 :
